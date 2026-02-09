@@ -1,0 +1,10 @@
+# virtual environment
+.venv/
+
+# coverage files
+.coverage
+htmlcov/
+
+# python cache
+__pycache__/
+*.pyc
